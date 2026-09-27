@@ -4,8 +4,8 @@
 
 FailPatch introduces a failure-driven paradigm for adapting frozen Vision-Language-Action policies from deployment failures. It achieves consistent gains across simulation and real-world settings with only **0.52% trainable parameters**.
 
-- [Project Website](https://failpatch-vla.yupeng0403.chatgpt.site)
-- [Paper](https://failpatch-vla.yupeng0403.chatgpt.site/FailPatch_arXiv.pdf)
+- [Project Website](https://yupeng-2003.github.io/FailPatch/)
+- [Paper](https://yupeng-2003.github.io/FailPatch/FailPatch_arXiv.pdf)
 
 ## Code
 
